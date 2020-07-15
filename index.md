@@ -1,14 +1,14 @@
-## Welcome to GitHub Pages
+## Tablet Inc
 
-You can use the [editor on GitHub](https://github.com/tabletinc/tabletinc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can check out all of our products @ the [Products Page](tabletinc.github.io/products.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who we are
 
-### Markdown
+We provide integrated health solutions for medical records in India. It's a one stop shop for patients, doctors, pharmacies, pharmaceuticals.
+We even integrate easily with you existing solutions with our pluggable products. Find out all about us @ [About Page](tabletinc.github.io/about.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+### Full Demo on you laptop
+```
 Syntax highlighted code block
 
 # Header 1
@@ -26,12 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tabletinc/tabletinc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For more details check out individual product offerings @ [Products Page](tabletinc.github.io/products.md)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to develop with us? Check out our [documentation](tabletinc.github.io/documentation.md)
+Want to talk to us [contact support](tabletinc.github.io/contactus.md) and we’ll help you.
